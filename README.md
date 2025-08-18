@@ -38,6 +38,8 @@ Use o teclado para pressionar as teclas indicadas (ex: A, S, D…).
 
 Digite uma sequência no campo de entrada (ex: asdf) e clique em Play para ouvir sua composição.
 
+![Bateria](https://github.com/user-attachments/assets/023c414a-4eae-4a80-b818-e7041b75a67a)
+
 =========================================================================
 
 English
@@ -79,3 +81,5 @@ No server or installation required.
 Use your keyboard to press the indicated keys (ex: A, S, D…).
 
 Type a sequence in the input (e.g. asdf) and click Play to hear your composition.
+
+![Bateria](https://github.com/user-attachments/assets/886a0760-2c66-4017-a395-35c14d53b5d7)
